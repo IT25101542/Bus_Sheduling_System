@@ -1,0 +1,11 @@
+package com.lankatransit.system.common;
+
+public enum Role {
+    CUSTOMER,
+    OPERATIONS_MANAGER,
+    CUSTOMER_SERVICE_SUPERVISOR,
+    TRANSPORT_PLANNING_OFFICER,
+    FINANCE_ADMIN,
+    BUS_DEPOT_SUPERVISOR,
+    SYSTEM_ADMIN
+}
